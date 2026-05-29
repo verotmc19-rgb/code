@@ -1,1 +1,1 @@
-worker: python hosturlbb.py
+web: python hosturlbb.py
